@@ -1,1 +1,1 @@
-print("Hello, DevOps Lab 2!")
+TITLE = "Library Feature A"
